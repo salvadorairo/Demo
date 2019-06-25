@@ -1,0 +1,6 @@
+name: demosura
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - mlflow
